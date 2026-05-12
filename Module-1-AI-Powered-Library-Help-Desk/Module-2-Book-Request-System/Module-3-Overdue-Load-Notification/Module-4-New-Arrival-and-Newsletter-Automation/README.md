@@ -48,7 +48,7 @@ automatically every Friday.
 - **n8n** — Scheduled workflow automation
 - **OpenAI GPT-4o** — AI description generation
 - **Google Sheets** — Arrivals and member database
-- **Gmail** — Newsletter delivery
+- **Brevo** — Newsletter delivery
 
 ---
 
