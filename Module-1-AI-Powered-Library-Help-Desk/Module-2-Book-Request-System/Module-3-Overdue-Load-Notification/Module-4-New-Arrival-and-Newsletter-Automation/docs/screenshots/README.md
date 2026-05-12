@@ -1,4 +1,4 @@
- Library Intelligence Suite
+** Library Intelligence Suite **
 
  A complete 4-modules AI automation system that transforms 
  Library operations — built with n8n, OpenAI, Google Sheets, 
